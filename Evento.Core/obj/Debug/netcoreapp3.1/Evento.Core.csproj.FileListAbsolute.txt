@@ -1,0 +1,9 @@
+C:\Dev\Evento_v1\Evento\Evento.Core\bin\Debug\netcoreapp3.1\Evento.Core.deps.json
+C:\Dev\Evento_v1\Evento\Evento.Core\bin\Debug\netcoreapp3.1\Evento.Core.dll
+C:\Dev\Evento_v1\Evento\Evento.Core\bin\Debug\netcoreapp3.1\Evento.Core.pdb
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.AssemblyInfoInputs.cache
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.AssemblyInfo.cs
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.csproj.CoreCompileInputs.cache
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.dll
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.pdb
+C:\Dev\Evento_v1\Evento\Evento.Core\obj\Debug\netcoreapp3.1\Evento.Core.csprojAssemblyReference.cache

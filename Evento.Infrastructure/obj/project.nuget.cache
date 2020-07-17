@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vIKJFGgqOrO26y+yCVzE6r1sjDId1mqm/Fw0WU3Js7G/U6zJZ5TQwh++hFmMf7EvDOUScFRj3w1NhG8se4Xy0g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Evento_v1\\Evento\\Evento.Infrastructure\\Evento.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plmioch\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\plmioch\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\plmioch\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

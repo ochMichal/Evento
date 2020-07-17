@@ -1,0 +1,12 @@
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\bin\Debug\netcoreapp3.1\Evento.Infrastructure.deps.json
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\bin\Debug\netcoreapp3.1\Evento.Infrastructure.dll
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\bin\Debug\netcoreapp3.1\Evento.Infrastructure.pdb
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\bin\Debug\netcoreapp3.1\Evento.Core.dll
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\bin\Debug\netcoreapp3.1\Evento.Core.pdb
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.csprojAssemblyReference.cache
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.AssemblyInfoInputs.cache
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.AssemblyInfo.cs
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.csproj.CopyComplete
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.dll
+C:\Dev\Evento_v1\Evento\Evento.Infrastructure\obj\Debug\netcoreapp3.1\Evento.Infrastructure.pdb
